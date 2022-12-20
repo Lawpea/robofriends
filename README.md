@@ -1,3 +1,3 @@
 # Robofriends
 
-Tutorial for learning how to create React apps.
+A test website for learning the basics of React.
